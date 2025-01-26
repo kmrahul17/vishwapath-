@@ -8,7 +8,7 @@
     "skipLibCheck": true,
     "jsx": "react-jsx",
     "types": ["three", "node"],
-    "resolveJsonModule": true,                    // Enable importing JSON files if needed
+    "resolveJsonModule": true,                    
     "allowJs": true 
   },
   "include": ["src/**/*"],
