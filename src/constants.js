@@ -34,7 +34,7 @@ export const VEHICLES = [
             'Medical bay',
             'Research facilities'
         ],
-        capacity: 7,
+        capacity: 20,
         pricePerPerson: 2000000,
         image: '/vehicles/spaceshuttle.jpg',
         description: 'A reliable and spacious vessel for longer journeys, equipped with all necessary amenities for a comfortable space travel experience.',
