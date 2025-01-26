@@ -50,7 +50,7 @@ export const VEHICLES = [
             'Comfortable seating',
             'Panoramic windows'
         ],
-        capacity: 4,
+        capacity: 6,
         pricePerPerson: 1000000,
         image: '/vehicles/spacetaxi.jpeg',
         description: 'Perfect for shorter trips and small groups, offering a balance of comfort and efficiency.',
